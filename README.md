@@ -22,5 +22,5 @@ Stack: Java, Spring Boot, React, PostgreSQL, Docker, AWS
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ## 📫 Reach Me
-- LinkedIn: linkedin.com/in/ayoub-ibrahim
+- LinkedIn: www.linkedin.com/in/ayoub-ibrahim
 - Email: ayoub.alnour.cs@gamil.com
