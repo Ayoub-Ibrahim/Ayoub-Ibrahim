@@ -1,16 +1,15 @@
 # Hi, I'm Ayoub
 
-**Java Full-Stack Developer** | Spring Boot · React · PostgreSQL · Docker · AWS
-📍 Valencia, Spain — open to full-time roles (on-site or remote)
+**Java Full-Stack Developer** : Spring Boot · React · PostgreSQL · Docker · AWS
+📍 Valencia, Spain
 
 ## Currently Building
-**Apartment Rental Application** — full-stack web app for searching and renting apartments
+**Apartment Rental Application** : full-stack web app for searching and renting apartments
 Code: soon |  Live demo: coming soon
 Stack: Java, Spring Boot, React, PostgreSQL, Docker, AWS
 
 ## 🎓 Featured Project
-**UPV → Moodle Format Converter** — web app that converts UPV-format files into Moodle-standard format
-Code: [repo link]
+**UPV → Moodle Format Converter** : web app that converts UPV-format files into Moodle-standard format
 
 ## 🛠 Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
