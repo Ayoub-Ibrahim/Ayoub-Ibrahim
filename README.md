@@ -1,11 +1,10 @@
 # Hi, I'm Ayoub
 
 **Java Full-Stack Developer** : Spring Boot · React · PostgreSQL · Docker · AWS
-📍 Valencia, Spain
 
 ## Currently Building
 **Apartment Rental Application** : full-stack web app for searching and renting apartments
-Code: soon |  Live demo: coming soon
+
 Stack: Java, Spring Boot, React, PostgreSQL, Docker, AWS
 
 ## 🎓 Featured Project
